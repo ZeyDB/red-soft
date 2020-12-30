@@ -1,7 +1,7 @@
 module.exports = {
-  configureWebpack: {
-    plugins: [
-      new MyAwesomeWebpackPlugin()
-    ]
-  }
+  // configureWebpack: {
+  //   plugins: [
+  //     new MyAwesomeWebpackPlugin()
+  //   ]
+  // }
 }
