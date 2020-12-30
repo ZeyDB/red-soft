@@ -1,10 +1,8 @@
 <template>
-  <main class="page">
-    <div class="container">
-      <h1 class="page__title">Картины эпохи Возрождения</h1>
-      <ProductList />
-    </div>
-  </main>
+  <div class="container">
+    <h1 class="page__title">Картины эпохи Возрождения</h1>
+    <ProductList />
+  </div>
 </template>
 
 <script>
